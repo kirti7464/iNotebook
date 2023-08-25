@@ -2,7 +2,7 @@ import UserContext from "./UserContext";
 
 const UsersState = (props) => {
     
-    const host = "http://localhost:5000"
+    const host = "https://playful-tender-sprite.glitch.me/"
     //login user
 
     const login=async(email, password)=>{
