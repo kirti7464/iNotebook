@@ -1,5 +1,4 @@
 
-import './App.css';
 import About from './components/About'; 
 import NoteState from './context/NoteState';
 import UsersState from './context/UsersState';
