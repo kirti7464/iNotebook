@@ -2,7 +2,7 @@ import { useState } from "react";
 import NoteContext from "./noteContext";
 
 const NoteState = (props)=>{
-    const host = "https://playful-tender-sprite.glitch.me/"
+    const host = "https://inote-book.glitch.me/"
     const notesInitial=[]
     const [notes, setNotes] = useState(notesInitial)
       // Get all Notes
