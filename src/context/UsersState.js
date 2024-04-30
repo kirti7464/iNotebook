@@ -2,7 +2,7 @@ import UserContext from "./UserContext";
 
 const UsersState = (props) => {
     
-    const host = "https://inote-book.glitch.me/"
+    const host = "https://inote-book.glitch.me"
     //login user
 
     const login=async(email, password)=>{
